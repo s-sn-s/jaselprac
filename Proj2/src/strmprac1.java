@@ -11,7 +11,7 @@ public class strmprac1 {
 		List<String> myAryLst = Arrays.asList(myAry);
 		myAryLst.forEach(s->System.out.println(s));
 		System.out.println(myAryLst.contains("Savin"));
-		System.out.println("-----------");
+		System.out.println("------");
 		
 		
 	}
